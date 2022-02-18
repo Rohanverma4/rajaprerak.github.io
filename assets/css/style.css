@@ -18,7 +18,8 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #5c85ad;
+  /* background: #5c85ad; */
+  background-image: url('https://wallpapercave.com/wp/wp6412485.jpg');
   background-size: cover;
   left: 0;
   right: 0;
@@ -97,7 +98,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #header h2 span {
   color: #ffc107;
-  border-bottom: 2px solid #161a17;
+  border-bottom: 2px solid #49a1e9;
   padding-bottom: 6px;
   
 }
